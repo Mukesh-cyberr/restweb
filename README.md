@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:15/12/2024
+## Date:25/05/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -243,7 +243,7 @@ menu.html
     </section>
     <footer>
         <p>&copy; Java Foods. All Rights Reserved.</p>
-        <p> designed and developed by:K S Vinay Suhirthan(24901151)</p>
+        <p> designed and developed by:MUKESH RAJ D (212224100038)</p>
     </footer>
 </body>
 </html>
@@ -346,7 +346,7 @@ menu.html
     </section>
     <footer>
         <p>&copy; Java Foods. All Rights Reserved.</p>
-        <p> designed and developed by:K S Vinay Suhirthan(24901151)</p>
+        <p> designed and developed by:MUKESH RAJ D (212224100038</p>
     </footer>
 </body>
 </html>
@@ -420,7 +420,7 @@ contact.html
     </section>
     <footer>
         <p>&copy; Java Foods. All Rights Reserved.</p>
-        <p> designed and developed by:K S Vinay Suhirthan(24901151)</p>
+        <p> designed and developed by:MUKESH RAJ D (212224100038) </p>
     </footer>
 </body>
 </html>
@@ -494,16 +494,17 @@ about.html
     </section>
     <footer>
         <p>&copy; Java Foods. All Rights Reserved.</p>
-        <p> designed and developed by:K S Vinay Suhirthan(24901151)</p>
+        <p> designed and developed by:MUKESH RAJ D (212224100038)</p>
     </footer>
 </body>
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-15 192431.png>)
-![alt text](<Screenshot 2024-12-15 192511.png>)
-![alt text](<Screenshot 2024-12-15 192534.png>)
-![alt text](<Screenshot 2024-12-15 192547.png>)
+![alt text](<Screenshot 2025-05-25 220021.png>) 
+![alt text](<Screenshot 2025-05-25 220120.png>) 
+![alt text](<Screenshot 2025-05-25 220105.png>) 
+![alt text](<Screenshot 2025-05-25 220054.png>) 
+![alt text](<Screenshot 2025-05-25 220039.png>)
 
 
 ## RESULT:
