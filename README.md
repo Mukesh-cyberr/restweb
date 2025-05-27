@@ -503,7 +503,7 @@ about.html
 ![alt text](<Screenshot 2025-05-25 220021.png>) 
 ![alt text](<Screenshot 2025-05-25 220120.png>) 
 ![alt text](<Screenshot 2025-05-25 220105.png>) 
-![alt text](<Screenshot 2025-05-25 220054.png>) 
+
 ![alt text](<Screenshot 2025-05-25 220039.png>)
 
 
